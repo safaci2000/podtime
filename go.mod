@@ -1,4 +1,4 @@
-module github.com/safaci2000/podtime
+module github.com/safaci2000/podtools
 
 go 1.14
 
