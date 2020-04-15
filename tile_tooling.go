@@ -1,4 +1,4 @@
-package podtools
+package podtime
 
 import (
 	"errors"
